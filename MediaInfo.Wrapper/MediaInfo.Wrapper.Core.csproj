@@ -24,6 +24,7 @@
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <PackageId>GlobalEdit.$(AssemblyName)</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
