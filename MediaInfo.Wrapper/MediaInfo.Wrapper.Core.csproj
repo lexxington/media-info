@@ -3,9 +3,9 @@
   <PropertyGroup>
     <TargetFrameworks>net6.0;net5.0;netstandard2.1;netstandard2.0</TargetFrameworks>
     <RootNamespace>MediaInfo</RootNamespace>
-    <Version>21.9.2</Version>
-    <AssemblyVersion>21.9.2</AssemblyVersion>
-    <FileVersion>21.9.2</FileVersion>
+    <Version>21.3.3</Version>
+    <AssemblyVersion>21.3.3</AssemblyVersion>
+    <FileVersion>21.3.3</FileVersion>
     <Company>$(PackageCompany)</Company>
     <Authors>$(PackageAuthor)</Authors>
     <Product>MP-MediaInfo</Product>
